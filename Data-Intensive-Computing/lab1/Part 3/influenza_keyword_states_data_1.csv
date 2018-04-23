@@ -1,0 +1,434 @@
+,x
+1,Indiana
+2,Pennsylvania
+3,New Jersey
+4,Wisconsin
+5,West Virginia
+6,Utah
+7,Massachusetts
+8,District of Columbia
+9,New York
+10,Tennessee
+11,Colorado
+12,Georgia
+13,North Carolina
+14,Ohio
+15,New Jersey
+16,New Jersey
+17,New York
+18,Ohio
+19,Wisconsin
+20,New Hampshire
+21,Delaware
+22,Minnesota
+23,Texas
+24,Florida
+25,Florida
+26,South Carolina
+27,Colorado
+28,Massachusetts
+29,Vermont
+30,South Carolina
+31,Colorado
+32,Massachusetts
+33,Maryland
+34,New York
+35,Mississippi
+36,New York
+37,Virginia
+38,Minnesota
+39,Virginia
+40,Nevada
+41,New York
+42,Washington
+43,Kansas
+44,Colorado
+45,Utah
+46,Florida
+47,Tennessee
+48,Texas
+49,Michigan
+50,Iowa
+51,Colorado
+52,Michigan
+53,Maryland
+54,District of Columbia
+55,Minnesota
+56,South Carolina
+57,North Carolina
+58,Kansas
+59,Kansas
+60,Arkansas
+61,California
+62,District of Columbia
+63,District of Columbia
+64,District of Columbia
+65,Colorado
+66,Iowa
+67,New York
+68,Nebraska
+69,Minnesota
+70,Massachusetts
+71,Iowa
+72,Illinois
+73,Maryland
+74,California
+75,New Jersey
+76,New York
+77,Maryland
+78,Ohio
+79,Colorado
+80,Maine
+81,Utah
+82,California
+83,District of Columbia
+84,District of Columbia
+85,Connecticut
+86,New York
+87,Florida
+88,Ohio
+89,New York
+90,Tennessee
+91,New York
+92,New York
+93,Alabama
+94,California
+95,Oklahoma
+96,California
+97,Georgia
+98,Ohio
+99,Rhode Island
+100,Ohio
+101,Ohio
+102,Maryland
+103,North Carolina
+104,Ohio
+105,California
+106,District of Columbia
+107,California
+108,Georgia
+109,South Carolina
+110,Tennessee
+111,New York
+112,Georgia
+113,Illinois
+114,Massachusetts
+115,New Jersey
+116,New York
+117,California
+118,Utah
+119,District of Columbia
+120,Illinois
+121,New Jersey
+122,Pennsylvania
+123,Minnesota
+124,Massachusetts
+125,Utah
+126,Pennsylvania
+127,Illinois
+128,District of Columbia
+129,Colorado
+130,New York
+131,Georgia
+132,Indiana
+133,Minnesota
+134,Montana
+135,Michigan
+136,District of Columbia
+137,California
+138,New York
+139,Massachusetts
+140,Ohio
+141,Nebraska
+142,Oregon
+143,District of Columbia
+144,North Carolina
+145,California
+146,California
+147,California
+148,Pennsylvania
+149,Georgia
+150,Rhode Island
+151,California
+152,Arizona
+153,New York
+154,Alabama
+155,Pennsylvania
+156,California
+157,California
+158,Utah
+159,California
+160,Ohio
+161,Maryland
+162,Georgia
+163,District of Columbia
+164,Virginia
+165,California
+166,Virginia
+167,Colorado
+168,Texas
+169,North Carolina
+170,New York
+171,Hawaii
+172,Virginia
+173,New Hampshire
+174,California
+175,Florida
+176,New Mexico
+177,New York
+178,Wisconsin
+179,Ohio
+180,Ohio
+181,Utah
+182,Kentucky
+183,Ohio
+184,Ohio
+185,Kansas
+186,Wisconsin
+187,District of Columbia
+188,Illinois
+189,Missouri
+190,Wisconsin
+191,Virginia
+192,Georgia
+193,New York
+194,New York
+195,Kansas
+196,Massachusetts
+197,Maryland
+198,Florida
+199,Iowa
+200,North Carolina
+201,Texas
+202,New York
+203,Florida
+204,California
+205,New York
+206,New Jersey
+207,New York
+208,New York
+209,Michigan
+210,Pennsylvania
+211,Maine
+212,Massachusetts
+213,New York
+214,Connecticut
+215,Georgia
+216,Ohio
+217,Texas
+218,North Carolina
+219,Connecticut
+220,Nevada
+221,California
+222,Florida
+223,Florida
+224,Illinois
+225,New York
+226,Illinois
+227,District of Columbia
+228,Wisconsin
+229,Pennsylvania
+230,California
+231,Arizona
+232,Illinois
+233,Tennessee
+234,California
+235,Florida
+236,Missouri
+237,Kentucky
+238,Indiana
+239,Pennsylvania
+240,Maryland
+241,West Virginia
+242,Michigan
+243,West Virginia
+244,District of Columbia
+245,Utah
+246,Massachusetts
+247,New Jersey
+248,Georgia
+249,District of Columbia
+250,Florida
+251,Georgia
+252,Florida
+253,District of Columbia
+254,Illinois
+255,Ohio
+256,New Jersey
+257,New Jersey
+258,Ohio
+259,Wisconsin
+260,New Hampshire
+261,New Jersey
+262,Ohio
+263,Maryland
+264,New Jersey
+265,Minnesota
+266,Florida
+267,South Carolina
+268,Pennsylvania
+269,Florida
+270,District of Columbia
+271,Massachusetts
+272,Colorado
+273,Massachusetts
+274,Arkansas
+275,South Carolina
+276,Pennsylvania
+277,Colorado
+278,Tennessee
+279,Maryland
+280,New York
+281,New York
+282,Virginia
+283,Massachusetts
+284,Washington
+285,Massachusetts
+286,Kansas
+287,Georgia
+288,Utah
+289,Florida
+290,Washington
+291,Tennessee
+292,Texas
+293,New York
+294,Missouri
+295,Iowa
+296,Washington
+297,Virginia
+298,Maryland
+299,District of Columbia
+300,Indiana
+301,Maryland
+302,Connecticut
+303,North Carolina
+304,District of Columbia
+305,Maryland
+306,District of Columbia
+307,Colorado
+308,Iowa
+309,New York
+310,Nebraska
+311,Massachusetts
+312,Nebraska
+313,Wisconsin
+314,Illinois
+315,Illinois
+316,Maryland
+317,Pennsylvania
+318,California
+319,Louisiana
+320,Virginia
+321,Georgia
+322,Ohio
+323,Maryland
+324,Maine
+325,New Jersey
+326,California
+327,Ohio
+328,Missouri
+329,Florida
+330,South Carolina
+331,New Jersey
+332,District of Columbia
+333,District of Columbia
+334,California
+335,Connecticut
+336,Missouri
+337,New York
+338,Florida
+339,Ohio
+340,New York
+341,New York
+342,Rhode Island
+343,Missouri
+344,New Mexico
+345,Massachusetts
+346,District of Columbia
+347,Georgia
+348,New York
+349,Pennsylvania
+350,New York
+351,Georgia
+352,Arkansas
+353,Massachusetts
+354,New Jersey
+355,Tennessee
+356,New York
+357,California
+358,Pennsylvania
+359,District of Columbia
+360,Illinois
+361,Massachusetts
+362,Minnesota
+363,Massachusetts
+364,Texas
+365,Pennsylvania
+366,Kentucky
+367,Illinois
+368,Illinois
+369,California
+370,Colorado
+371,New York
+372,Indiana
+373,Georgia
+374,District of Columbia
+375,California
+376,South Carolina
+377,Texas
+378,Massachusetts
+379,Illinois
+380,Oregon
+381,North Carolina
+382,New York
+383,California
+384,Pennsylvania
+385,Tennessee
+386,Pennsylvania
+387,Missouri
+388,Washington
+389,Arizona
+390,New York
+391,New York
+392,California
+393,Alabama
+394,California
+395,Maryland
+396,Utah
+397,California
+398,Illinois
+399,Michigan
+400,Pennsylvania
+401,Maryland
+402,Georgia
+403,Georgia
+404,Arizona
+405,Virginia
+406,California
+407,Virginia
+408,Texas
+409,Missouri
+410,Massachusetts
+411,Pennsylvania
+412,Florida
+413,Hawaii
+414,Virginia
+415,Tennessee
+416,New Hampshire
+417,California
+418,Wisconsin
+419,Wisconsin
+420,Illinois
+421,Wisconsin
+422,Georgia
+423,Iowa
+424,Ohio
+425,Ohio
+426,Indiana
+427,Kentucky
+428,Ohio
+429,Pennsylvania
+430,New York
+431,Ohio
+432,Wisconsin
+433,Illinois

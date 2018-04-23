@@ -1,0 +1,84 @@
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Word Cloud</title>
+    <script src="d3.js" charset="utf-8"></script>
+    <script src="d3.layout.cloud.js"></script>
+    <script src="d3.wordcloud.js"></script>
+  </head>
+  <body style="text-align: center">
+  
+	<h1>Word Cloud(One Day Data)</h1>
+	<h2>  Pick a keyword </h2>	
+    <h2> Word Cloud Twitter 	&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp			Word Cloud NYT</h2>
+	
+	<div id = "dd"> </div>
+    <div id='wordcloud'></div>
+    
+    <script>
+	
+		var data = ["Select", "Self Driving Car"];
+
+		var select = d3.select('#dd')
+		.append('select')
+		.attr('class','select')
+		.on('change',onchange)
+
+		var options = select
+		.selectAll('option')
+		.data(data).enter()
+		.append('option')
+		.text(function (d) { return d; });
+
+		function onchange() {
+			selectValue = d3.select('select').property('value')
+			d3.select("#wordcloud").text("");
+			d3.select("h2").text(selectValue);
+		
+			if(selectValue == "Self Driving Car") {
+				d3.select("h2").text(selectValue)
+				var myWord;
+				d3.json("twt_1D_SDC_wc.json", function(data) {
+				console.log("-----------------------------");
+				myWord = data;
+				console.log(myWord)
+				d3.wordcloud()
+				.size([500, 300])
+				.fill(d3.scale.ordinal().range(["#884400", "#448800", "#888800", "#444400"]))
+				.words(myWord)
+				.onwordclick(function(d, i) {
+				if (d.href) { window.location = d.href; }
+				})
+				.start();
+				});
+			
+				d3.json("nyt_1D_SDC_wc.json", function(data) {
+					console.log("-----------------------------");
+					myWord = data;
+					console.log(myWord)
+					d3.wordcloud()
+					.size([500, 300])
+					.fill(d3.scale.ordinal().range(["#884400", "#448800", "#888800", "#444400"]))
+					.words(myWord)
+					.onwordclick(function(d, i) {
+					if (d.href) { window.location = d.href; }
+					})
+					.start();
+				});
+					
+				
+			} else {
+				
+				d3.select("#wordcloud").text("");
+			d3.select("h2").text(selectValue);
+				};
+			}
+		
+      
+		
+		
+		
+    </script>
+  </body>
+</html>
+

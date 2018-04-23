@@ -1,0 +1,402 @@
+[
+    {
+        "text": "driving",
+        "size": "1693"
+    },
+    {
+        "text": "self",
+        "size": "1471"
+    },
+    {
+        "text": "car",
+        "size": "1070"
+    },
+    {
+        "text": "cars",
+        "size": "1065"
+    },
+    {
+        "text": "new",
+        "size": "842"
+    },
+    {
+        "text": "technology",
+        "size": "765"
+    },
+    {
+        "text": "autonomous",
+        "size": "732"
+    },
+    {
+        "text": "search",
+        "size": "575"
+    },
+    {
+        "text": "said",
+        "size": "440"
+    },
+    {
+        "text": "email",
+        "size": "436"
+    },
+    {
+        "text": "company",
+        "size": "420"
+    },
+    {
+        "text": "vehicles",
+        "size": "410"
+    },
+    {
+        "text": "home",
+        "size": "400"
+    },
+    {
+        "text": "subscriptions",
+        "size": "395"
+    },
+    {
+        "text": "video",
+        "size": "395"
+    },
+    {
+        "text": "today",
+        "size": "391"
+    },
+    {
+        "text": "uber",
+        "size": "387"
+    },
+    {
+        "text": "see",
+        "size": "380"
+    },
+    {
+        "text": "vehicle",
+        "size": "380"
+    },
+    {
+        "text": "page",
+        "size": "370"
+    },
+    {
+        "text": "lyft",
+        "size": "363"
+    },
+    {
+        "text": "advertisement",
+        "size": "351"
+    },
+    {
+        "text": "guide",
+        "size": "335"
+    },
+    {
+        "text": "companies",
+        "size": "330"
+    },
+    {
+        "text": "please",
+        "size": "326"
+    },
+    {
+        "text": "opinion",
+        "size": "325"
+    },
+    {
+        "text": "road",
+        "size": "316"
+    },
+    {
+        "text": "arts",
+        "size": "315"
+    },
+    {
+        "text": "apple",
+        "size": "310"
+    },
+    {
+        "text": "next",
+        "size": "308"
+    },
+    {
+        "text": "education",
+        "size": "300"
+    },
+    {
+        "text": "events",
+        "size": "295"
+    },
+    {
+        "text": "mobile",
+        "size": "290"
+    },
+    {
+        "text": "com",
+        "size": "285"
+    },
+    {
+        "text": "nytimes",
+        "size": "285"
+    },
+    {
+        "text": "would",
+        "size": "275"
+    },
+    {
+        "text": "waymo",
+        "size": "258"
+    },
+    {
+        "text": "map",
+        "size": "248"
+    },
+    {
+        "text": "one",
+        "size": "248"
+    },
+    {
+        "text": "also",
+        "size": "230"
+    },
+    {
+        "text": "tech",
+        "size": "225"
+    },
+    {
+        "text": "help",
+        "size": "222"
+    },
+    {
+        "text": "services",
+        "size": "222"
+    },
+    {
+        "text": "magazine",
+        "size": "220"
+    },
+    {
+        "text": "ford",
+        "size": "219"
+    },
+    {
+        "text": "information",
+        "size": "215"
+    },
+    {
+        "text": "world",
+        "size": "215"
+    },
+    {
+        "text": "sign",
+        "size": "214"
+    },
+    {
+        "text": "view",
+        "size": "212"
+    },
+    {
+        "text": "digital",
+        "size": "210"
+    },
+    {
+        "text": "health",
+        "size": "210"
+    },
+    {
+        "text": "systems",
+        "size": "210"
+    },
+    {
+        "text": "terms",
+        "size": "210"
+    },
+    {
+        "text": "silicon",
+        "size": "208"
+    },
+    {
+        "text": "valley",
+        "size": "208"
+    },
+    {
+        "text": "contact",
+        "size": "207"
+    },
+    {
+        "text": "crossword",
+        "size": "205"
+    },
+    {
+        "text": "could",
+        "size": "200"
+    },
+    {
+        "text": "index",
+        "size": "200"
+    },
+    {
+        "text": "skip",
+        "size": "200"
+    },
+    {
+        "text": "may",
+        "size": "198"
+    },
+    {
+        "text": "business",
+        "size": "195"
+    },
+    {
+        "text": "accessibility",
+        "size": "190"
+    },
+    {
+        "text": "articles",
+        "size": "190"
+    },
+    {
+        "text": "feedback",
+        "size": "190"
+    },
+    {
+        "text": "loading",
+        "size": "190"
+    },
+    {
+        "text": "service",
+        "size": "190"
+    },
+    {
+        "text": "work",
+        "size": "190"
+    },
+    {
+        "text": "privacy",
+        "size": "187"
+    },
+    {
+        "text": "version",
+        "size": "185"
+    },
+    {
+        "text": "manage",
+        "size": "182"
+    },
+    {
+        "text": "test",
+        "size": "180"
+    },
+    {
+        "text": "ride",
+        "size": "179"
+    },
+    {
+        "text": "newsletters",
+        "size": "177"
+    },
+    {
+        "text": "center",
+        "size": "175"
+    },
+    {
+        "text": "paper",
+        "size": "175"
+    },
+    {
+        "text": "newsletter",
+        "size": "174"
+    },
+    {
+        "text": "chief",
+        "size": "170"
+    },
+    {
+        "text": "driverless",
+        "size": "170"
+    },
+    {
+        "text": "edition",
+        "size": "170"
+    },
+    {
+        "text": "like",
+        "size": "170"
+    },
+    {
+        "text": "software",
+        "size": "170"
+    },
+    {
+        "text": "develop",
+        "size": "168"
+    },
+    {
+        "text": "industry",
+        "size": "168"
+    },
+    {
+        "text": "march",
+        "size": "168"
+    },
+    {
+        "text": "maps",
+        "size": "160"
+    },
+    {
+        "text": "testing",
+        "size": "160"
+    },
+    {
+        "text": "already",
+        "size": "157"
+    },
+    {
+        "text": "coverage",
+        "size": "156"
+    },
+    {
+        "text": "related",
+        "size": "156"
+    },
+    {
+        "text": "automakers",
+        "size": "150"
+    },
+    {
+        "text": "credit",
+        "size": "150"
+    },
+    {
+        "text": "safety",
+        "size": "150"
+    },
+    {
+        "text": "working",
+        "size": "150"
+    },
+    {
+        "text": "design",
+        "size": "145"
+    },
+    {
+        "text": "photo",
+        "size": "144"
+    },
+    {
+        "text": "driver",
+        "size": "140"
+    },
+    {
+        "text": "executive",
+        "size": "140"
+    },
+    {
+        "text": "roads",
+        "size": "140"
+    },
+    {
+        "text": "accident",
+        "size": "138"
+    }
+]
